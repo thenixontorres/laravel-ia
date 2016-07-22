@@ -72,3 +72,4 @@
   //  'uses'  => 'Auth\AuthController@getLogout',
    // 'as'    => 'auth.logout'
 //]);
+
